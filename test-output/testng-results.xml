@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25405" started-at="2020-07-15T04:46:20Z" finished-at="2020-07-15T04:46:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25405" started-at="2020-07-15T04:46:20Z" finished-at="2020-07-15T04:46:46Z">
+      <class name="com.test.UserTest">
+        <test-method status="PASS" signature="InjectDriver()[pri:0, instance:com.test.UserTest@1375618]" name="InjectDriver" is-config="true" duration-ms="11918" started-at="2020-07-15T10:16:08Z" finished-at="2020-07-15T10:16:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InjectDriver -->
+        <test-method status="PASS" signature="validateAddUserPageTitle()[pri:0, instance:com.test.UserTest@1375618]" name="validateAddUserPageTitle" duration-ms="20431" started-at="2020-07-15T10:16:20Z" finished-at="2020-07-15T10:16:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddUserPageTitle -->
+        <test-method status="PASS" signature="validateAddUserTest()[pri:0, instance:com.test.UserTest@1375618]" name="validateAddUserTest" duration-ms="4703" started-at="2020-07-15T10:16:41Z" finished-at="2020-07-15T10:16:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddUserTest -->
+        <test-method status="PASS" signature="countStateTest()[pri:0, instance:com.test.UserTest@1375618]" name="countStateTest" duration-ms="244" started-at="2020-07-15T10:16:45Z" finished-at="2020-07-15T10:16:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countStateTest -->
+      </class> <!-- com.test.UserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
